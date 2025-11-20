@@ -1,1 +1,2 @@
-# Projectio BananaBank
+# Projeto BananaBank
+Cesae/Natixis
