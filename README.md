@@ -1,1 +1,3 @@
 # Projectio BananaBank
+
+- André Lourenço
