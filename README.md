@@ -1,3 +1,3 @@
-# Projectio BananaBank
+# Projecto BananaBank
 
 - Bruno Moreira
