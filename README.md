@@ -1,1 +1,3 @@
 # Projectio BananaBank
+
+- Gustavo Pinto
